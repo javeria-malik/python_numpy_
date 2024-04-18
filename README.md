@@ -1,2 +1,2 @@
 # python_numpy_
-numpy basic function
+numpy basic function.
